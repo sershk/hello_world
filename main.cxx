@@ -7,6 +7,8 @@ using namespace std;
 from office 1
 from office 3
 
+from office 10
+
 
 new change home
 second change from homw
